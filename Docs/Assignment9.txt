@@ -1,0 +1,98 @@
+#From
+Valid:
+	Yes.
+	No.
+Length of the string:
+	Empty.
+	One.
+	More than one and <to> but less than file size.
+	More than one but less than <to> and file size.
+	More than file size.
+Presence of enclosing quotes:
+	Not enclosed.
+	Enclosed.
+	Incorrect.
+Presence of blanks:
+	None.
+	One.
+	Many.
+Presence of quotes within string:
+	None.
+	One.
+	Many.
+Presence of special characters:
+	None. 
+	One. 
+	Many.
+
+
+#To
+Valid:
+	Yes.
+	No.
+Length of the string:
+	Empty.
+	One.
+	More than one and <from> but less than file size.
+	More than one but less than <from> and file size.
+	More than file size.
+Presence of enclosing quotes:
+	Not enclosed.
+	Enclosed.
+	Incorrect.
+Presence of blanks:
+	None.
+	One.
+	Many.
+Presence of quotes within string:
+	None.
+	One.
+	Many.
+Presence of special characters:
+	None. 
+	One. 
+	Many.
+
+
+#File
+Size:
+	Empty.
+	Not empty.
+Number of occurrences of <from> in the file:
+	None.
+	One.
+	Many.
+Number of occurrences of <from> in one line:
+	One. 
+	Many.
+Position of <from> in the file:
+	First Line.
+	Last Line.
+	Any.
+<to> occurs in file:
+	Yes.
+	No. 
+
+
+#-b
+Specified:
+	Yes.
+	No.
+
+
+#-f
+Specified:
+	Yes.
+	No.
+
+
+#-l
+Specified:
+	Yes.
+	No.
+
+
+#-i
+Specified:
+	Yes.
+	No.
